@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.naruoz.testlink",
+      "sha256_cert_fingerprints": [
+        "48:4A:BD:93:24:ED:9C:3B:C9:FE:30:42:92:21:65:D0:A0:C7:64:32:04:4B:5A:0E:08:7C:E1:55:C3:DD:30:47"
+      ]
+    }
+  }
+]
